@@ -1,0 +1,18 @@
+body {
+    color: white;
+    background-image: url("download.jpg");
+    background-repeat: no-repeat;
+}
+
+.text {
+    font-family: "montserrat";
+    text-align: center;
+    font-weight: bold;
+}
+
+#yesno {
+    font-family: "montserrat";
+    margin-top: 25%;
+    text-align: center;
+    font-weight: bold;
+}
